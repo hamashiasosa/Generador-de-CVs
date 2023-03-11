@@ -1,0 +1,10 @@
+.input-error{
+    border-color:rgb(227, 21, 21);
+    border-width: medium;
+}
+
+.input-success{
+    border-color: rgb(111, 225, 111);
+    border-width: medium;
+}
+
